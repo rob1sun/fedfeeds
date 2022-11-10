@@ -1,6 +1,6 @@
 [
     {
-        "spDisplayName": "Skolfederation<br>Trial SP",
+        "spDisplayName": "Skolfederation Trial SP",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
@@ -12,13 +12,13 @@
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
     },
    {
-        "spDisplayName": "Federationstest<br>Service Provider",
+        "spDisplayName": "Federationstest Service Provider",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png"
     },
     {
-        "spDisplayName": "Fidustest<br> SAML",
+        "spDisplayName": "Fidustest SAML",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg"
