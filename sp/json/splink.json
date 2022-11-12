@@ -24,171 +24,123 @@
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg"
     },
     {
-        "spDisplayName": "Skolfederation",
+        "spDisplayName": "Skolfederation2 Trial SP",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
     },
     {
-        "spDisplayName": "Skolverket",
+        "spDisplayName": "Skolverket2 Testinloggning",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
     },
    {
-        "spDisplayName": "Skolfederation",
+        "spDisplayName": "Federationstest2 Service Provider",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png"
     },
     {
-        "spDisplayName": "Skolverket",
+        "spDisplayName": "Fidustest2 SAML",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg"
     },
     {
-        "spDisplayName": "Skolfederation",
+        "spDisplayName": "Skolfederation3 Trial SP",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
     },
     {
-        "spDisplayName": "Skolverket",
-        "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
-        "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
-    },
-   {
-        "spDisplayName": "Skolfederation",
-        "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
-        "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
-    },
-    {
-        "spDisplayName": "Skolverket",
-        "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
-        "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
-    },
-    {
-        "spDisplayName": "Skolfederation",
-        "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
-        "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
-    },
-    {
-        "spDisplayName": "Skolverket",
+        "spDisplayName": "Skolverket3 Testinloggning",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
     },
    {
-        "spDisplayName": "Skolfederation",
+        "spDisplayName": "Federationstest3 Service Provider",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png"
     },
     {
-        "spDisplayName": "Skolverket",
+        "spDisplayName": "Fidustest3 SAML",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg"
     },
-        {
-        "spDisplayName": "Skolfederation",
+    {
+        "spDisplayName": "Skolfederation4 Trial SP",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
     },
     {
-        "spDisplayName": "Skolverket",
-        "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
-        "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
-    },
-   {
-        "spDisplayName": "Skolfederation",
-        "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
-        "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
-    },
-    {
-        "spDisplayName": "Skolverket",
-        "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
-        "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
-    },
-    {
-        "spDisplayName": "Skolfederation",
-        "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
-        "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
-    },
-    {
-        "spDisplayName": "Skolverket",
+        "spDisplayName": "Skolverket4 Testinloggning",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
     },
    {
-        "spDisplayName": "Skolfederation",
+        "spDisplayName": "Federationstest4 Service Provider",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png"
     },
     {
-        "spDisplayName": "Skolverket",
+        "spDisplayName": "Fidustest4 SAML",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg"
     },
     {
-        "spDisplayName": "Skolfederation",
+        "spDisplayName": "Skolfederation5 Trial SP",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
     },
     {
-        "spDisplayName": "Skolverket",
-        "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
-        "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
-    },
-   {
-        "spDisplayName": "Skolfederation",
-        "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
-        "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
-    },
-    {
-        "spDisplayName": "Skolverket",
-        "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
-        "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
-    },
-    {
-        "spDisplayName": "Skolfederation",
-        "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
-        "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
-    },
-    {
-        "spDisplayName": "Skolverket",
+        "spDisplayName": "Skolverket5 Testinloggning",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
     },
    {
-        "spDisplayName": "Skolfederation",
+        "spDisplayName": "Federationstest5 Service Provider",
+        "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
+        "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png"
+    },
+    {
+        "spDisplayName": "Fidustest5 SAML",
+        "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
+        "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg"
+    },
+    {
+        "spDisplayName": "Skolfederation6 Trial SP",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
     },
     {
-        "spDisplayName": "Skolverket",
+        "spDisplayName": "Skolverket6 Testinloggning",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif"
+    },
+   {
+        "spDisplayName": "Federationstest6 Service Provider",
+        "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
+        "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png"
+    },
+    {
+        "spDisplayName": "Fidustest6 SAML",
+        "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
+        "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg"
     }
 ]
