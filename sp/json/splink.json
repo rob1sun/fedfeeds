@@ -3,7 +3,9 @@
         "spDisplayName": "Skolfederation Trial SP",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg"
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg",
+        "shortDescription": "Testinloggning",
+        "description": "Tjänst/SAML-SP för att testa inloggning med IdP. Mottagna attribut visas i tjänsten"
     },
     {
         "spDisplayName": "Skolverket Testinloggning",
