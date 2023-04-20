@@ -4,23 +4,23 @@
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg",
-        "shortDescription": "Testinloggning",
-        "description": "Tjänst/SAML-SP för att testa inloggning med IdP. Mottagna attribut visas i tjänsten"
+        "shortDescription": "Skolfederation",
+        "description": "Tjänst/SAML-SP för att testa inloggning med IdP. Mottagna attribut visas i tjänsten."
     },
     {
         "spDisplayName": "Skolverket Test",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif",
-        "shortDescription": "Digitala nationella prov",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "shortDescription": "Skolverket",
+        "description": "Provtjänst för test av inloggning till digitala nationella prov."
     },
    {
         "spDisplayName": "Federationstest SP",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
         "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png",
-        "shortDescription": "Lorem ipsum",
+        "shortDescription": "Internetstiftelsen",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
