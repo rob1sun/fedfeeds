@@ -16,98 +16,98 @@
         "description": "Provtjänst för test av inloggning till digitala nationella prov."
     },
    {
-        "spDisplayName": "Federationstest SP",
+        "spDisplayName": "Plus +",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild1.png",
         "shortDescription": "Internetstiftelsen",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "spDisplayName": "Fidustest SAML",
+        "spDisplayName": "Mattemojäng",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild2.png",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "spDisplayName": "Skolfederation2 Trial SP",
+        "spDisplayName": "Läsmyran",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild3",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "spDisplayName": "Skolverket2 Test",
+        "spDisplayName": "Historieresan",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild4",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
    {
-        "spDisplayName": "Federationstest2 SP",
+        "spDisplayName": "Biologibubblan",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild5.png",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "spDisplayName": "Fidustest2 SAML",
+        "spDisplayName": "Spela och lär",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild6.png",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "spDisplayName": "Skolfederation3 Trial SP",
+        "spDisplayName": "Samhällsviktigt",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild7.png",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "spDisplayName": "Skolverket3 Test",
+        "spDisplayName": "Idrott för alla",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild8.png",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
    {
-        "spDisplayName": "Federationstest3 SP",
+        "spDisplayName": "Kropp och hälsa",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed2.png",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild9.png",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "spDisplayName": "Fidustest3 SAML",
+        "spDisplayName": "Hello English",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket2.jpg",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild10.png",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "spDisplayName": "Skolfederation4 Trial SP",
+        "spDisplayName": "Gränslös geografi",
         "spLink": "https://sp.trial.skolfederation.swefed.se/simplesaml/module.php/core/as_login.php?AuthId=default-sp&saml:idp=",
         "spTarget": "&ReturnTo=https://sp.trial.skolfederation.swefed.se/show_attributes.php",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolfed.jpg",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild11.png",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "spDisplayName": "Skolverket4 Test",
+        "spDisplayName": "Stjärnkollen",
         "spLink": "https://fidustest.skolverket.se/Shibboleth.sso/Login?entityID=",
         "spTarget": "&target=https%3A%2F%2Ffidustest.skolverket.se%2Fsecure",
-        "spImg": "https://fedfeeds.robertsundin.se/sp/img/skolverket.jfif",
+        "spImg": "https://fedfeeds.robertsundin.se/sp/img/bild12.png",
         "shortDescription": "Lorem ipsum",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
